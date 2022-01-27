@@ -1,6 +1,10 @@
 # ScoleDarkTheme
 Темная тема для Scole
 
+<img width="522" alt="Снимок экрана 2022-01-28 в 01 22 17" src="https://user-images.githubusercontent.com/78372613/151437585-99cd6a5c-95e1-4142-a054-681443ef1ad9.png">
+<img width="586" alt="Снимок экрана 2022-01-28 в 01 26 03" src="https://user-images.githubusercontent.com/78372613/151438519-926f57c9-3e9a-4023-ba2e-51f052afca9b.png">
+<img width="1440" alt="151437929-6a3b5742-0c66-4ee9-9344-9603b3a7a29c" src="https://user-images.githubusercontent.com/78372613/151438687-9f6bf31b-d7f2-49b1-8b3c-39ae7ee00324.png">
+
 ## Инструкция по установке в `Google Chrome`
 
 > Для установки новых стилей вам потребуются сторонние плагины. В примере будем использовать `Stylish`
